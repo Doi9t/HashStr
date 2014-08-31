@@ -1,4 +1,4 @@
-##SortBy
+##HashStr
 <sup>*A Sublime Text plugin that add SHA1, MD5, SHA2 (all) and base(16,32,64 and 64 url safe) functions.*</sup>
 - - -
 
@@ -22,7 +22,7 @@
 1) Find your local Sublime Text [2 or 3] Packages directory.
 Example : C:\Users\USER_NAME\AppData\Roaming\Sublime Text [2 or 3]\Packages
 
-2) Copy the SortBy directory inside the Packages directory.
+2) Copy the HashStr directory inside the Packages directory.
 
 3) Restart Sublime Text and enjoy !
 ~~~
