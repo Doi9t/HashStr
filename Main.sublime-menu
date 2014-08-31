@@ -1,0 +1,121 @@
+[
+    {
+        "caption": "Tools",
+        "children": [
+            {
+                "caption": "Doi9t's packages",
+                "children": [
+                    {
+                        "caption": "HashStr",
+                        "children": [
+                            {
+                                "args": {
+                                    "hashName": "sha384"
+                                },
+                                "caption": "HashStr: Hash with sha384",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "sha224"
+                                },
+                                "caption": "HashStr: Hash with sha224",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "sha1"
+                                },
+                                "caption": "HashStr: Hash with sha1",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "sha512"
+                                },
+                                "caption": "HashStr: Hash with sha512",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "md5"
+                                },
+                                "caption": "HashStr: Hash with md5",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "sha256"
+                                },
+                                "caption": "HashStr: Hash with sha256",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "enc_base16"
+                                },
+                                "caption": "HashStr: Encode with base16",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "dec_base16"
+                                },
+                                "caption": "HashStr: Decode base16",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "enc_base32"
+                                },
+                                "caption": "HashStr: Encode with base32",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "dec_base32"
+                                },
+                                "caption": "HashStr: Decode base32",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "enc_base64"
+                                },
+                                "caption": "HashStr: Encode with base64",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "dec_base64"
+                                },
+                                "caption": "HashStr: Decode base64",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "enc_base64US"
+                                },
+                                "caption": "HashStr: Encode with base64 (URL SAFE)",
+                                "command": "hash"
+                            },
+                            {
+                                "args": {
+                                    "hashName": "dec_base64US"
+                                },
+                                "caption": "HashStr: Decode base64 (URL SAFE)",
+                                "command": "hash"
+                            }
+                        ],
+                        "id": "menu_doi9t_ha",
+                        "mnemonic": "h"
+                    }
+                ],
+                "id": "menu_doi9t",
+                "mnemonic": "d"
+            }
+        ],
+        "id": "tools",
+        "mnemonic": "T"
+    }
+]
